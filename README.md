@@ -9,13 +9,13 @@ Connect on port 8080 via TCP (like with telnet for example).
 
 **Commands:**
 
-SET varname expires_in_sec value
+`SET varname expires_in_sec value`
 
-GET varname
+`GET varname`
 
-DEL varname
+`DEL varname`
 
-QUIT
+`QUIT`
 
 ## Background
 
